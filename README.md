@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on developing cool new projects, and startup ideas
 - 🌱 I’m currently learning Deep Learnning via Coursera by infamous Professor Andrew Ng and competing in Kaggle compeitions
-- ⚡ Fun fact: I am obssesed with Photography, and creating single image stories. Check out my instagram.com/luismangubat
+- ⚡ My other hobbies is Photography and Cinematographer.
+- 🚀 Fun Fact: I am also an aspiring powerlifter, and hopefully beating the Philippine 74kg national Record Squat
 
 ### Socials
 [<img align="left" alt="luismangubat.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
