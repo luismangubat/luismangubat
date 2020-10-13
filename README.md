@@ -17,3 +17,7 @@
 [instagram]: https://instagram.com/thepipedream_
 [linkedin]: https://linkedin.com/in/joseluismangubat
 [Kaggle]: https://www.kaggle.com/luismangubat
+
+<p align="right">
+  <img src="./load-dark.svg" width="164px" float="right">
+</p>
