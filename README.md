@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Jose Luis
 
 - 🔭 I’m currently working on developing cool new projects, and startup ideas
-- 🌱 I’m learning Deep Learnning via Coursera by infamous Professor Andrew Ng and competing in Kaggle compeitions
+- 🌱 I’m learning NLP Clustering techniques using various resource such as Coursera and Kaggle
 - ⚡ My other hobbies is Photography and Cinematography
 - 🚀 Fun Fact: I am also an aspiring powerlifter, and hopefully beating the Philippine 74kg national record squat
 
