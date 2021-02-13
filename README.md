@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Jose Luis
 
 - 🔭 I have history of creating modern web application and machine learning porjects
-- 🌱 I’m currently learning Next.js, Puppeteer.js, and NLP techniques
+- 🌱 I’m currently learning Next.js, Tensorflow and Keras, and NLP techniques
 - ⚡ My other hobbies is Photography and Videography
 - 🚀 Fun Fact: I am also an aspiring powerlifter, and hopefully beating the Philippine 74kg national squat record
 
