@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Jose Luis
 
 - 🔭 I have history of creating modern web application and machine learning porjects
-- 🌱 I’m currently learning Next.js, Tensorflow and Solidity (Ethereum)
+- 🌱 I’m currently Blockchain technology Solidity (Ethereum)
 - ⚡ My other hobbies is Photography and Videography
 - 🚀 Fun Fact: I am also an aspiring powerlifter, and hopefully beating the Philippine 74kg national squat record
 
