@@ -4,7 +4,7 @@
 - 🔭 I have history of creating modern web application and machine learning projects
 - 🌱 I’m currently learning Blockchain technology Solidity (Ethereum)
 - ⚡ My other hobbies is Photography and Videography
-- 🚀 Fun Fact: I am also an aspiring powerlifter, and hopefully beating the Philippine 74kg national squat record
+- 🚀 Fun Fact: Former U19 Philippine National Rugby Player
 
 ### Socials
 [<img align="left" alt="luismangubat.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
