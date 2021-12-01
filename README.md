@@ -2,7 +2,7 @@
 
 - ⚒  Previousaly worked for RBC as a developer intern
 - 🔭 I have history of creating modern web application and machine learning projects
-- 🌱 I’m currently learning Blockchain technology speciifically Solidity (Ethereum)
+- 🌱 I’m currently learning Blockchain technology specifically Solidity (Ethereum)
 - ⚡ Founder of Stei Light Media, which is a marketing agency specalizing in photography & videography
 - 🚀 Fun Fact: Former U19 Philippine National Rugby Player
 
