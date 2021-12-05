@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Jose Luis
 
-- ⚒  Previousaly worked for RBC as a developer intern
+- ⚒  Previously worked for RBC as a developer intern
 - 🔭 I have history of creating modern web application and machine learning projects
 - 🌱 I’m currently learning Blockchain technology specifically Solidity (Ethereum)
 - ⚡ Founder of Stei Light Media a marketing agency specalizing in photography & videography
